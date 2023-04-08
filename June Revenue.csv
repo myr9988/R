@@ -1,0 +1,698 @@
+Transaction Date,Created Date,Order ID,Currency Code,Amount,Service Tax Collected,Swachh Bharat Cess,Order Total,Payment Status,Order Status,Course Title,SC ID
+2016-06-11 12:00:00,2016-07-29 12:29:11,60484,INR,3000,420,15,3450,canceled,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-30 11:30:00,2016-06-30 11:31:57,46806,INR,2001,280,10,2301,success,completed,Management Accounting,SC0140
+2016-06-30 11:30:00,2016-06-30 11:27:02,46804,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SC0140
+2016-06-30 11:30:00,2016-06-30 11:16:25,46802,INR,8000,1120,40,9200,success,completed,Project Management ,SC0140
+2016-06-30 11:00:00,2016-06-30 10:50:48,46795,USD,257,,,257,success,completed,Advanced Digital Marketing,SCTOWERS
+2016-06-30 09:22:03,2016-06-30 09:16:24,46789,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 08:18:04,2016-06-30 08:12:33,46782,INR,1413,198,7,1625,success,completed,Advanced Business Analytics with R,SCG7CR
+2016-06-30 07:15:00,2016-06-30 07:14:10,46776,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-30 07:15:00,2016-06-30 07:10:34,46773,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-30 07:09:04,2016-06-30 07:07:03,46772,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-30 07:15:00,2016-06-30 07:06:13,46771,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-30 06:45:02,2016-06-30 06:42:11,46760,INR,9000,1260,45,10350,success,completed,Project Management ,SCG7CR
+2016-06-30 05:59:05,2016-06-30 05:56:13,46746,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 05:45:04,2016-06-30 05:42:15,46742,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 12:00:00,2016-06-30 05:39:52,46741,INR,20000,2800,100,23000,canceled,canceled,CIMA Gateway Prep Program,
+2016-06-30 05:45:00,2016-06-30 05:37:32,46740,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0158
+2016-06-30 05:30:00,2016-06-30 05:30:32,46734,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0158
+2016-06-30 06:00:00,2016-06-30 05:23:51,46731,INR,6001,840,30,6901,success,completed,Business Analytics ,SCTOWERS
+2016-06-30 10:02:03,2016-06-30 05:09:50,46723,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SC0102
+2016-06-30 05:21:01,2016-06-30 05:05:54,46722,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCG7CR
+2016-06-30 05:02:05,2016-06-30 04:40:49,46711,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SC0153
+2016-06-30 12:00:00,2016-06-30 04:35:40,46708,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 04:30:00,2016-06-30 04:29:57,46707,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SC0168
+2016-06-30 04:30:00,2016-06-30 04:16:36,46699,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-30 04:00:00,2016-06-30 04:01:02,46688,INR,10001,1400,50,11501,success,completed,Financial Modelling Using Excel,SC0105
+2016-06-30 04:00:00,2016-06-30 03:56:02,46686,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SC0105
+2016-06-30 03:59:00,2016-06-30 03:55:19,46684,INR,6755,946,34,7768,success,completed,Supply Chain Management,SCG7CR
+2016-06-30 03:53:24,2016-06-30 03:52:05,46682,INR,6755,946,34,7768,failure,canceled,Supply Chain Management,
+2016-06-30 03:35:03,2016-06-30 03:33:31,46676,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 12:00:00,2016-06-30 03:17:22,46674,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-30 05:20:04,2016-06-30 02:23:39,46659,INR,9548,1719,61,14117,failure,canceled,Digital Marketing Certification,SCTOWERS
+2016-06-30 02:22:05,2016-06-30 02:18:29,46658,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 02:30:03,2016-06-30 02:17:25,46657,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-30 02:10:04,2016-06-30 01:44:12,46647,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 03:36:00,2016-06-30 01:43:38,46646,INR,18000,2520,90,20700,success,completed,Digital Marketing Professional Program in association with Google,SC0102
+2016-06-30 01:15:04,2016-06-30 01:08:17,46640,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 09:18:01,2016-06-30 12:50:29,46630,INR,9518,1332,48,10945,success,completed,Project Management ,SCTOWERS
+2016-06-30 01:45:25,2016-06-30 12:49:08,46629,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-30 11:47:08,2016-06-30 12:45:40,46627,INR,9088,1272,45,10451,failure,canceled,Business Analytics ,SC0107
+2016-06-30 12:00:00,2016-06-30 11:57:19,46604,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SC0105
+2016-06-30 11:55:02,2016-06-30 11:48:00,46597,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 01:01:04,2016-06-30 11:42:34,46594,INR,8259,1156,41,9498,success,completed,Digital Marketing Certification,SC0102
+2016-06-30 03:45:00,2016-06-30 11:40:18,46591,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SC0105
+2016-06-30 11:40:02,2016-06-30 11:36:53,46588,INR,263,37,1,302,success,completed,Essential concepts of Business Strategy,SCG7CR
+2016-06-30 11:33:00,2016-06-30 11:29:54,46585,USD,169,,,169,success,completed,PMP® Exam Preparatory Course,SCG7CR
+2016-06-29 12:00:00,2016-06-30 11:02:53,46567,INR,9518,1332,48,10945,canceled,canceled,Project Management ,SCTOWERS
+2016-06-30 11:58:49,2016-06-30 10:36:22,46552,INR,6755,946,34,7768,failure,canceled,Cloud Computing with MS Azure,SCG7CR
+2016-06-30 10:39:05,2016-06-30 10:35:40,46551,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 04:25:01,2016-06-30 10:04:06,46532,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-29 09:26:04,2016-06-29 08:57:57,46497,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SC0102
+2016-06-29 08:04:05,2016-06-29 08:02:35,46495,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-29 08:51:02,2016-06-29 07:25:28,46492,INR,9518,1332,48,10945,success,completed,Project Management ,SC0107
+2016-06-29 07:05:01,2016-06-29 06:59:38,46484,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-29 06:49:02,2016-06-29 06:45:41,46481,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 09:27:05,2016-06-29 06:42:34,46480,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-29 06:26:02,2016-06-29 06:20:51,46471,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCG7CR
+2016-06-30 12:59:05,2016-06-29 05:31:00,46459,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-29 05:52:00,2016-06-29 05:30:11,46458,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-30 09:14:01,2016-06-29 05:12:05,46451,INR,15082,2111,75,17344,success,completed,ITIL® Foundation,SC0140
+2016-06-30 09:02:04,2016-06-29 05:10:29,46450,INR,15082,2111,75,17344,success,completed,ITIL® Foundation,SC0140
+2016-06-29 05:30:00,2016-06-29 04:38:14,46441,INR,21000,2940,105,24150,canceled,canceled,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-30 02:45:00,2016-06-29 04:02:36,46426,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-29 09:38:02,2016-06-29 03:59:44,46424,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-29 09:22:05,2016-06-29 03:48:34,46421,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-29 03:40:03,2016-06-29 03:03:57,46401,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCTOWERS
+2016-06-29 03:10:00,2016-06-29 03:00:32,46399,INR,9000,1260,45,10350,success,completed,Project Management ,
+2016-06-29 03:05:03,2016-06-29 02:55:52,46397,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-29 04:04:02,2016-06-29 02:31:32,46388,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCTOWERS
+2016-06-29 02:54:02,2016-06-29 02:24:50,46383,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-29 02:38:03,2016-06-29 01:56:08,46374,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCG7CR
+2016-06-29 01:15:05,2016-06-29 01:11:11,46363,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-29 03:30:00,2016-06-29 12:40:39,46350,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-29 12:29:13,2016-06-29 12:25:32,46342,INR,9548,1337,48,10980,failure,canceled,Digital Marketing Certification,SCTOWERS
+2016-06-29 12:15:02,2016-06-29 12:10:41,46337,INR,18000,2520,90,20700,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-29 12:03:01,2016-06-29 11:58:33,46328,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-29 11:40:02,2016-06-29 11:34:41,46311,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCG7CR
+2016-06-29 11:37:04,2016-06-29 11:34:39,46310,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-29 08:05:17,2016-06-29 11:34:14,46308,INR,9517,1332,48,10945,success,completed,Project Management ,SCTOWERS
+2016-06-29 11:32:02,2016-06-29 11:26:48,46302,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SC0106
+2016-06-29 11:31:13,2016-06-29 11:18:53,46296,INR,6755,946,34,7768,failure,canceled,Cloud Computing with MS Azure,
+2016-06-29 03:01:05,2016-06-29 10:26:45,46270,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-29 10:10:02,2016-06-29 09:37:23,46245,INR,3376,473,17,3882,success,completed,Business Strategy ,SCG7CR
+2016-06-29 02:03:03,2016-06-28 08:53:55,46219,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCTOWERS
+2016-06-28 08:18:04,2016-06-28 08:12:29,46210,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-28 07:19:03,2016-06-28 07:16:26,46202,INR,2250,315,11,2588,success,completed,Financial Accounting,SCG7CR
+2016-06-28 07:00:00,2016-06-28 06:58:47,46197,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-28 07:14:16,2016-06-28 06:57:41,46195,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-28 07:00:00,2016-06-28 06:49:29,46187,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-29 01:27:01,2016-06-28 06:45:06,46186,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-28 06:39:03,2016-06-28 06:34:39,46181,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-28 05:45:00,2016-06-28 05:45:10,46162,USD,406,,,406,success,completed,Digital Marketing Professional Program,SCTOWERS
+2016-06-28 05:39:05,2016-06-28 05:36:37,46156,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-28 05:39:03,2016-06-28 05:35:58,46155,INR,9376,1313,47,10782,success,completed,Financial Modelling Using Excel,SCG7CR
+2016-06-28 05:26:00,2016-06-28 05:21:21,46148,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-28 06:02:45,2016-06-28 04:47:36,46133,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,SC0153
+2016-06-28 04:36:21,2016-06-28 04:33:51,46122,USD,64,,,64,success,completed,Advanced MS Excel,SCG7CR
+2016-06-28 05:40:04,2016-06-28 03:36:26,46111,INR,6755,946,34,7768,success,completed,Supply Chain Management,SCG7CR
+2016-06-28 03:27:02,2016-06-28 03:19:23,46098,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-28 03:40:02,2016-06-28 03:13:00,46093,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-29 04:06:02,2016-06-28 02:29:17,46049,INR,9518,1332,48,10945,success,completed,Project Management ,SCTOWERS
+2016-06-28 02:09:05,2016-06-28 02:05:15,46039,INR,9517,1332,48,10945,success,completed,Project Management ,SCG7CR
+2016-06-29 12:56:05,2016-06-28 01:45:22,46033,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-28 01:40:01,2016-06-28 01:36:41,46027,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-28 01:41:04,2016-06-28 01:23:58,46023,INR,6755,946,34,7768,success,completed,Supply Chain Management,SCG7CR
+2016-06-30 11:41:03,2016-06-28 01:14:51,46015,INR,3376,473,17,3882,success,completed,Business Strategy ,SCG7CR
+2016-06-28 03:00:05,2016-06-28 01:08:03,46012,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-29 11:30:00,2016-06-28 01:00:58,46006,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCG7CR
+2016-06-28 01:11:01,2016-06-28 12:54:18,45998,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-28 01:08:05,2016-06-28 12:48:19,45995,INR,9264,1297,46,10654,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-28 03:05:02,2016-06-28 12:44:16,45991,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCTOWERS
+2016-06-28 10:42:01,2016-06-28 12:43:00,45989,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-29 01:58:02,2016-06-28 12:36:19,45986,INR,9088,1272,45,10451,canceled,canceled,Business Analytics ,SCTOWERS
+2016-06-28 02:07:05,2016-06-28 12:27:02,45980,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-28 01:02:03,2016-06-28 12:19:14,45977,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-28 03:35:01,2016-06-28 12:01:31,45962,INR,6755,946,34,7768,success,completed,Supply Chain Management,SCTOWERS
+2016-06-28 12:35:02,2016-06-28 11:57:34,45961,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCG7CR
+2016-06-28 12:00:03,2016-06-28 11:56:13,45960,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-28 05:37:00,2016-06-28 11:34:59,45951,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-28 09:45:01,2016-06-28 11:32:26,45949,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCG7CR
+2016-06-28 12:00:00,2016-06-28 11:15:32,45934,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-28 12:01:04,2016-06-28 10:59:19,45923,INR,18000,2520,90,20700,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-27 07:05:01,2016-06-27 07:02:28,45875,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-27 06:41:05,2016-06-27 06:34:21,45871,INR,7720,1081,39,8878,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-27 05:34:01,2016-06-27 05:28:21,45864,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-27 07:28:03,2016-06-27 05:14:20,45863,INR,6424,899,32,7387,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-29 08:00:04,2016-06-27 04:06:47,45838,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-27 04:09:24,2016-06-27 04:04:11,45835,INR,24000,3360,120,27600,failure,canceled,Digital Marketing Professional Program in association with Google,
+2016-06-27 03:56:59,2016-06-27 03:34:12,45830,INR,24000,3360,120,27600,failure,canceled,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-27 03:26:01,2016-06-27 03:12:38,45823,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-27 03:00:00,2016-06-27 03:05:46,45819,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-27 12:00:00,2016-06-27 02:59:42,45814,INR,18000,2520,90,20700,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-27 03:00:00,2016-06-27 02:57:05,45812,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-27 03:00:00,2016-06-27 02:51:20,45807,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-27 02:43:01,2016-06-27 02:34:04,45799,INR,17341,2428,87,19942,success,completed,Advanced Digital Marketing,SCTOWERS
+2016-06-27 02:45:00,2016-06-27 02:33:53,45798,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-27 06:11:00,2016-06-27 01:15:25,45786,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-27 01:05:01,2016-06-27 01:01:16,45775,INR,6755,946,34,7768,success,completed,Supply Chain Management,SCG7CR
+2016-06-27 12:51:41,2016-06-27 12:49:23,45767,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-27 12:44:05,2016-06-27 12:42:32,45763,INR,9264,1297,46,10654,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-29 12:27:03,2016-06-27 12:41:43,45761,INR,10912,1528,55,12549,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-27 12:38:29,2016-06-27 12:35:43,45758,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-28 03:00:03,2016-06-27 12:35:29,45757,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCTOWERS
+2016-06-27 12:24:47,2016-06-27 12:21:41,45748,,0,37,1,302,,canceled,AdWords Account Management,
+2016-06-27 02:53:00,2016-06-27 11:14:38,45706,INR,18000,2520,90,20700,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-27 11:14:59,2016-06-27 11:09:01,45705,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-27 01:38:36,2016-06-27 10:32:55,45688,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-27 06:56:06,2016-06-27 06:52:37,45667,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-26 06:00:02,2016-06-26 05:55:31,45634,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,
+2016-06-26 04:26:05,2016-06-26 04:22:59,45629,INR,15173,2124,76,17449,success,completed,Advanced Digital Marketing,SCG7CR
+2016-06-26 04:05:03,2016-06-26 04:01:39,45624,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-26 04:19:04,2016-06-26 03:53:10,45623,INR,6000,840,30,6900,success,completed,Testing with Selenium ,SCG7CR
+2016-06-26 04:01:06,2016-06-26 03:30:57,45618,INR,15173,2124,76,17449,failure,canceled,Advanced Digital Marketing,SCG7CR
+2016-06-26 03:10:01,2016-06-26 03:07:15,45613,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-26 02:30:26,2016-06-26 02:24:18,45606,INR,10877,1523,54,12509,success,completed,Project Management ,SCG7CR
+2016-06-26 02:22:21,2016-06-26 02:16:43,45605,INR,15173,2124,76,17449,failure,canceled,Advanced Digital Marketing,SCG7CR
+2016-06-26 02:38:01,2016-06-26 02:08:51,45602,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-26 02:08:21,2016-06-26 02:06:34,45601,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-26 02:04:41,2016-06-26 02:01:17,45599,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-26 02:00:17,2016-06-26 01:51:14,45597,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-27 01:10:04,2016-06-26 12:43:47,45590,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-26 09:22:05,2016-06-26 09:17:45,45575,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-26 02:26:02,2016-06-26 02:22:41,45564,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-26 12:36:01,2016-06-26 12:32:52,45559,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-26 12:09:01,2016-06-26 12:01:28,45556,INR,6001,840,30,6901,success,completed,Business Analytics ,SCG7CR
+2016-06-25 11:40:40,2016-06-25 11:25:28,45554,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-25 10:38:00,2016-06-25 10:20:55,45550,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-25 11:17:05,2016-06-25 10:05:03,45548,INR,6000,840,30,6900,success,completed,Cloud Computing with AWS,SCG7CR
+2016-06-25 10:07:04,2016-06-25 10:03:57,45547,INR,263,37,1,302,success,completed,UNIX File System,
+2016-06-25 08:45:27,2016-06-25 08:43:01,45535,USD,63,,,63,success,completed,Basics of Project Management,
+2016-06-25 07:30:04,2016-06-25 07:24:53,45525,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-25 06:14:02,2016-06-25 06:00:11,45511,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-25 05:25:02,2016-06-25 05:20:27,45504,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-27 11:05:03,2016-06-25 05:04:29,45502,INR,10877,1523,54,12509,success,completed,Project Management ,SCG7CR
+2016-06-25 05:05:05,2016-06-25 04:51:39,45500,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-25 04:09:01,2016-06-25 03:55:43,45492,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-25 03:03:01,2016-06-25 02:53:57,45473,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-25 02:37:02,2016-06-25 02:33:59,45468,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-25 01:57:39,2016-06-25 01:52:18,45441,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-25 01:33:03,2016-06-25 01:23:27,45436,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-25 01:25:04,2016-06-25 01:08:41,45431,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-25 12:53:00,2016-06-25 12:46:32,45421,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,
+2016-06-25 08:30:01,2016-06-25 12:46:04,45420,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-25 12:45:00,2016-06-25 12:40:00,45418,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-25 12:42:02,2016-06-25 12:39:27,45417,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SC0106
+2016-06-25 02:01:00,2016-06-25 11:49:28,45396,INR,18000,2520,90,20700,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-26 10:56:01,2016-06-25 11:38:15,45391,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCTOWERS
+2016-06-25 11:43:00,2016-06-25 11:38:12,45390,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-25 01:09:20,2016-06-25 11:09:21,45383,INR,10386,1454,52,11944,failure,canceled,Business Analytics ,SCTOWERS
+2016-06-25 10:14:47,2016-06-25 10:12:53,45359,INR,263,37,1,302,failure,canceled,UNIX Shell Programming,
+2016-06-25 10:04:02,2016-06-25 09:59:56,45356,INR,263,37,1,302,success,completed,UNIX File System,
+2016-06-25 12:00:00,2016-06-25 09:06:41,45355,INR,3750,525,19,4313,canceled,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-24 11:10:00,2016-06-24 10:58:20,45300,INR,263,37,1,302,success,completed,Importance of Project Management,
+2016-06-24 08:53:04,2016-06-24 08:50:06,45289,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,
+2016-06-25 10:34:04,2016-06-24 07:38:54,45277,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-24 10:00:37,2016-06-24 05:43:08,45246,INR,22500,3150,113,25875,failure,canceled,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-24 07:08:03,2016-06-24 05:04:47,45241,INR,7720,1081,39,8878,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-24 04:20:24,2016-06-24 04:14:43,45231,,0,525,19,4313,,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-24 04:00:04,2016-06-24 03:44:41,45216,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-24 03:46:01,2016-06-24 03:29:37,45201,INR,6001,840,30,6901,success,completed,Business Analytics ,SCG7CR
+2016-06-24 06:30:03,2016-06-24 02:56:35,45195,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-24 01:45:02,2016-06-24 01:42:08,45172,INR,10001,1400,50,11501,success,completed,Financial Modelling Using Excel,SCG7CR
+2016-06-24 02:34:03,2016-06-24 01:39:28,45171,INR,12000,1680,60,13800,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-24 12:32:04,2016-06-24 12:27:13,45150,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCG7CR
+2016-06-24 12:55:04,2016-06-24 12:17:47,45148,INR,9518,1332,48,10945,success,completed,Project Management ,SCTOWERS
+2016-06-24 12:21:05,2016-06-24 12:16:45,45147,INR,16257,2276,81,18695,success,completed,Advanced Digital Marketing,SCG7CR
+2016-06-25 08:06:05,2016-06-24 12:09:58,45145,INR,17341,2428,87,19942,success,completed,Advanced Digital Marketing,SCTOWERS
+2016-06-24 12:03:00,2016-06-24 11:58:32,45140,INR,6001,840,30,6901,success,completed,Business Analytics ,SCG7CR
+2016-06-24 02:39:00,2016-06-24 11:37:47,45133,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-25 12:30:00,2016-06-24 11:16:16,45129,INR,8259,1156,41,9498,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-25 11:45:00,2016-06-24 10:40:02,45110,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCTOWERS
+2016-06-24 12:00:00,2016-06-24 10:34:03,45105,INR,5193,727,26,5972,success,completed,MS Project,
+2016-06-29 12:34:01,2016-06-24 10:33:41,45104,INR,17341,2428,87,19942,success,completed,Advanced Digital Marketing,SCG7CR
+2016-06-24 11:04:01,2016-06-24 10:22:10,45084,INR,10588,1482,53,12176,success,completed,Big Data Analytics using Hadoop ,SCTOWERS
+2016-06-24 07:47:02,2016-06-23 06:08:37,45007,INR,4000,560,20,4600,success,completed,Supply Chain Management,SCG7CR
+2016-06-23 05:16:00,2016-06-23 05:13:44,45001,INR,9264,1297,46,10654,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-23 05:07:58,2016-06-23 05:04:58,44997,INR,9264,1297,46,10654,failure,canceled,Big Data Analytics using Hadoop ,
+2016-06-24 09:35:32,2016-06-23 04:56:16,44995,INR,10877,1523,54,12509,success,completed,Project Management ,SCG7CR
+2016-06-23 03:52:00,2016-06-23 03:47:09,44983,INR,9264,1297,46,10654,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-23 04:54:02,2016-06-23 03:42:09,44980,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-23 07:28:03,2016-06-23 03:35:30,44978,INR,17341,2428,87,19942,success,completed,Advanced Digital Marketing,SCG7CR
+2016-06-23 03:24:02,2016-06-23 03:18:56,44969,INR,22514,3152,113,25892,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-23 01:34:04,2016-06-23 01:31:50,44932,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-23 01:05:02,2016-06-23 12:49:08,44924,INR,8259,1156,41,9498,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-23 02:34:00,2016-06-23 12:12:03,44907,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-23 12:16:01,2016-06-23 12:09:11,44903,INR,22514,3152,113,25892,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-24 09:34:04,2016-06-23 11:49:11,44894,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SC0104
+2016-06-25 11:09:01,2016-06-23 11:34:45,44889,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-23 09:05:04,2016-06-23 11:08:02,44877,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-23 11:15:00,2016-06-23 11:04:37,44870,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-23 10:52:02,2016-06-23 10:44:25,44860,INR,40002,5600,200,46002,success,completed,CIMA - Advanced Diploma in Management Accounting ,SCTOWERS
+2016-06-23 08:10:08,2016-06-23 08:06:43,44836,INR,2815,394,14,3237,failure,canceled,Python Developer ,
+2016-06-23 12:51:00,2016-06-23 12:46:14,44746,INR,11364,1591,57,13069,success,completed,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",SCG7CR
+2016-06-23 12:08:02,2016-06-22 11:31:33,44741,INR,8000,1120,40,9200,success,completed,Project Management ,SCG7CR
+2016-06-22 10:30:00,2016-06-22 10:05:02,44735,INR,10912,1528,55,12549,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-22 09:09:01,2016-06-22 07:38:37,44722,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-22 07:48:00,2016-06-22 07:36:56,44721,INR,22514,3152,113,25892,success,completed,Digital Marketing Professional Program in association with Google,SC0106
+2016-06-22 07:36:00,2016-06-22 07:34:11,44720,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-22 07:33:00,2016-06-22 07:29:00,44718,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-22 07:25:05,2016-06-22 07:08:57,44716,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-23 01:11:03,2016-06-22 06:55:34,44715,INR,22514,3152,113,25892,success,completed,Digital Marketing Professional Program in association with Google,SC0101
+2016-06-22 06:20:01,2016-06-22 06:15:47,44710,INR,11364,1591,57,13069,success,completed,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",SCG7CR
+2016-06-22 04:50:30,2016-06-22 04:47:33,44694,INR,263,37,1,302,failure,canceled,Evolution of Business Analytics,
+2016-06-22 04:50:05,2016-06-22 04:47:11,44693,INR,263,37,1,302,success,completed,Essential concepts of Business Strategy,
+2016-06-22 06:36:05,2016-06-22 04:07:45,44679,INR,22514,0,0,0,success,cart,,SCTOWERS
+2016-06-22 04:01:06,2016-06-22 03:58:00,44672,INR,11364,1591,57,13069,failure,canceled,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",
+2016-06-22 04:01:01,2016-06-22 03:55:15,44671,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-22 03:52:03,2016-06-22 03:42:40,44656,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-22 02:57:03,2016-06-22 02:51:09,44633,INR,11364,1591,57,13069,success,completed,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",SCG7CR
+2016-06-22 02:27:03,2016-06-22 02:24:18,44627,INR,7720,1081,39,8878,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-22 01:55:05,2016-06-22 01:50:14,44617,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-22 01:56:04,2016-06-22 01:47:21,44616,INR,17341,2428,87,19942,success,completed,Advanced Digital Marketing,SCTOWERS
+2016-06-22 01:39:01,2016-06-22 01:36:31,44613,INR,11364,1591,57,13069,success,completed,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",SCG7CR
+2016-06-22 01:33:31,2016-06-22 01:29:15,44612,INR,11364,1591,57,13069,failure,canceled,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",
+2016-06-22 12:30:00,2016-06-22 12:10:16,44583,INR,6755,946,34,7768,success,completed,Supply Chain Management,SC0106
+2016-06-23 09:15:00,2016-06-22 11:50:23,44579,INR,5000,700,25,5750,success,completed,Financial Management,SCG7CR
+2016-06-23 06:41:00,2016-06-22 10:30:48,44514,INR,7875,1103,39,9057,success,completed,Cloud Computing with AWS,SCG7CR
+2016-06-27 02:48:02,2016-06-22 09:48:12,44507,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-22 09:39:36,2016-06-22 09:35:44,44506,INR,2815,394,14,3237,failure,canceled,Python Developer ,
+2016-06-21 10:39:52,2016-06-21 10:27:37,44489,,0,840,30,6901,,canceled,Business Analytics ,SCG7CR
+2016-06-21 07:21:02,2016-06-21 07:18:10,44481,INR,6750,945,34,7763,success,completed,Business Analytics ,
+2016-06-21 06:50:01,2016-06-21 06:46:39,44477,INR,6750,945,34,7763,success,completed,Business Analytics ,SCG7CR
+2016-06-22 10:56:00,2016-06-21 05:01:30,44466,INR,22514,3152,113,25892,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-21 05:02:05,2016-06-21 04:45:06,44464,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-21 04:41:05,2016-06-21 04:33:50,44463,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCTOWERS
+2016-06-21 04:31:04,2016-06-21 04:27:35,44462,INR,11364,1591,57,13069,success,completed,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",SCG7CR
+2016-06-21 04:18:05,2016-06-21 04:13:41,44451,INR,11364,1591,57,13069,success,completed,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",SCG7CR
+2016-06-21 04:18:01,2016-06-21 04:05:43,44448,INR,10912,1528,55,12549,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-21 04:04:01,2016-06-21 04:00:55,44447,INR,11364,1591,57,13069,success,completed,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",SCG7CR
+2016-06-21 04:00:00,2016-06-21 03:53:08,44445,INR,11364,1591,57,13069,success,completed,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",SCG7CR
+2016-06-21 03:50:04,2016-06-21 03:43:29,44443,INR,11364,1591,57,13069,success,completed,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",SCG7CR
+2016-06-21 03:37:05,2016-06-21 03:31:30,44428,INR,11364,1591,57,13069,success,completed,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",SCG7CR
+2016-06-22 02:38:01,2016-06-21 03:17:54,44421,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-21 03:26:00,2016-06-21 03:16:59,44420,INR,11364,1591,57,13069,success,completed,"Certification in HTML, CSS, Bootstrap, Java Script & JQuery",SCG7CR
+2016-06-23 03:36:00,2016-06-21 03:16:56,44419,INR,22514,3152,113,25892,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-23 10:53:00,2016-06-21 02:51:50,44404,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCTOWERS
+2016-06-21 02:30:00,2016-06-21 02:18:24,44386,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-21 02:16:00,2016-06-21 02:13:41,44385,INR,263,37,1,302,success,completed,Introduction to Microprocessors,
+2016-06-21 02:09:02,2016-06-21 02:04:52,44381,INR,6755,946,34,7768,failure,canceled,Supply Chain Management,
+2016-06-21 01:08:03,2016-06-21 01:05:41,44374,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,
+2016-06-22 01:02:05,2016-06-21 12:16:43,44361,INR,12000,1680,60,13800,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-21 12:18:04,2016-06-21 12:14:16,44360,INR,263,37,1,302,success,completed,Basics of Financial Accounting,
+2016-06-21 10:04:02,2016-06-21 10:24:14,44317,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-21 06:37:05,2016-06-21 10:22:21,44315,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-21 09:34:48,2016-06-21 09:33:14,44280,INR,2815,394,14,3237,failure,canceled,Python Developer ,
+2016-06-21 09:30:03,2016-06-21 09:28:23,44279,INR,2815,394,14,3237,failure,canceled,Python Developer ,
+2016-06-21 09:24:35,2016-06-21 09:18:20,44278,INR,2815,394,14,3237,failure,canceled,Python Developer ,
+2016-06-20 11:48:02,2016-06-20 11:23:24,44260,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-20 11:10:05,2016-06-20 11:07:16,44258,INR,10386,1454,52,11944,success,completed,Business Analytics ,
+2016-06-20 10:57:05,2016-06-20 10:54:28,44255,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-20 10:14:05,2016-06-20 10:04:14,44251,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-20 09:10:02,2016-06-20 08:38:05,44242,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-22 07:30:00,2016-06-20 08:09:32,44238,INR,7341,1028,37,8442,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-20 07:45:00,2016-06-20 07:39:09,44236,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-20 07:37:07,2016-06-20 07:35:14,44235,INR,6000,840,30,6900,failure,canceled,Bank Probationary Officer (PO) Exam Coaching,
+2016-06-20 07:15:03,2016-06-20 07:12:53,44233,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-20 06:15:03,2016-06-20 06:09:02,44219,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-20 09:15:02,2016-06-20 05:20:41,44205,INR,10877,1523,54,12509,success,completed,Project Management ,SCG7CR
+2016-06-20 08:10:03,2016-06-20 05:13:57,44203,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SC0103
+2016-06-20 10:21:01,2016-06-20 04:19:22,44189,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCNORTH
+2016-06-23 12:18:00,2016-06-20 04:14:28,44187,INR,24015,3362,120,27618,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-20 10:09:00,2016-06-20 04:10:20,44185,INR,12000,1680,60,13800,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-21 07:49:57,2016-06-20 04:00:57,44181,INR,10912,1528,55,12549,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-20 05:19:02,2016-06-20 03:06:18,44163,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-20 08:20:01,2016-06-20 02:53:27,44157,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-20 02:45:00,2016-06-20 02:27:18,44148,INR,12000,1680,60,13800,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-20 02:07:03,2016-06-20 01:48:13,44131,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-20 01:28:03,2016-06-20 01:25:06,44126,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-20 03:12:00,2016-06-20 12:19:21,44107,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-20 12:08:09,2016-06-20 11:48:44,44101,INR,22500,3150,113,25875,failure,canceled,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-20 10:17:00,2016-06-20 09:11:39,44047,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCTOWERS
+2016-06-19 11:01:59,2016-06-19 10:48:28,44034,INR,3750,525,19,4313,failure,canceled,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-20 04:52:01,2016-06-19 09:11:18,44020,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SC0107
+2016-06-23 09:56:01,2016-06-19 06:27:58,44009,INR,20000,2800,100,23000,canceled,canceled,CIMA Gateway Prep Program,SC0101
+2016-06-22 10:10:05,2016-06-19 06:00:12,44004,INR,22514,3152,113,25892,success,completed,Digital Marketing Professional Program in association with Google,SC0101
+2016-06-19 10:35:05,2016-06-19 01:39:56,43992,INR,6424,899,32,7387,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-19 11:50:04,2016-06-19 11:46:25,43984,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-19 07:58:00,2016-06-19 07:49:30,43975,INR,4500,630,23,5175,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-18 11:17:05,2016-06-18 11:09:50,43969,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-18 11:59:27,2016-06-18 10:58:54,43968,INR,9548,1337,48,10980,failure,canceled,Digital Marketing Certification,SCG7CR
+2016-06-18 10:57:05,2016-06-18 10:47:41,43966,INR,6750,945,34,7763,success,completed,Business Analytics ,SCG7CR
+2016-06-19 12:02:01,2016-06-18 10:16:58,43964,INR,12078,,,12078,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-18 07:11:02,2016-06-18 07:01:16,43948,INR,13283,,,13283,canceled,canceled,Advanced Business Analytics with R,SCG7CR
+2016-06-18 06:08:03,2016-06-18 06:04:28,43932,INR,2001,280,10,2301,success,completed,Developer Program with Java and RDBMS,SCG7CR
+2016-06-18 06:14:00,2016-06-18 05:41:38,43928,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-18 05:41:04,2016-06-18 05:36:27,43925,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-18 05:47:04,2016-06-18 05:18:30,43894,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-18 06:52:00,2016-06-18 05:10:29,43887,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-18 08:31:03,2016-06-18 04:51:51,43878,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-20 01:16:02,2016-06-18 04:27:26,43813,INR,10877,1523,54,12509,success,completed,Project Management ,SCTOWERS
+2016-06-18 06:55:02,2016-06-18 04:25:31,43812,INR,8751,1225,44,10063,success,completed,Financial Modelling Using Excel,SCG7CR
+2016-06-18 04:31:05,2016-06-18 04:23:10,43810,INR,8000,1120,40,9200,success,completed,Mobile Marketing,SCG7CR
+2016-06-18 04:48:04,2016-06-18 04:08:02,43802,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCNORTH
+2016-06-18 02:52:01,2016-06-18 02:46:39,43768,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SC0106
+2016-06-18 02:42:27,2016-06-18 02:30:33,43763,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-18 02:37:27,2016-06-18 02:29:33,43762,INR,5060,,,5060,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-18 01:20:37,2016-06-18 01:12:51,43753,INR,9264,1297,46,10654,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-18 08:46:04,2016-06-18 12:33:22,43744,INR,15173,2124,76,17449,success,completed,Advanced Digital Marketing,SCTOWERS
+2016-06-18 11:48:19,2016-06-18 11:46:23,43733,INR,263,37,1,302,success,completed,Evolution of Business Analytics,
+2016-06-18 01:49:05,2016-06-18 11:41:06,43724,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-18 12:49:00,2016-06-18 11:39:42,43722,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-18 11:00:00,2016-06-18 10:57:47,43710,INR,19508,2731,98,22434,success,completed,Advanced Digital Marketing,SCG7CR
+2016-06-18 04:00:20,2016-06-18 10:50:56,43708,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-18 03:45:05,2016-06-18 10:29:03,43704,INR,2001,280,10,2301,success,completed,"Developer Program with C++, Unix & RDBMS",SCG7CR
+2016-06-18 08:58:04,2016-06-18 08:54:16,43700,INR,263,37,1,302,success,completed,Essential concepts of Business Strategy,
+2016-06-17 10:55:03,2016-06-17 10:48:37,43657,INR,11719,,,11719,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-17 07:06:01,2016-06-17 07:04:37,43634,INR,4362,611,22,5016,success,completed,Online Android App Development,SCG7CR
+2016-06-17 07:14:02,2016-06-17 07:04:17,43633,INR,8751,1225,44,10063,success,completed,Financial Modelling Using Excel,SCG7CR
+2016-06-17 07:57:04,2016-06-17 06:58:32,43630,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-17 07:02:03,2016-06-17 06:57:28,43629,INR,4362,611,22,5016,success,completed,Online Android App Development,SCG7CR
+2016-06-17 06:56:03,2016-06-17 06:48:15,43626,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-17 07:30:00,2016-06-17 06:42:35,43623,INR,10500,1470,53,12075,canceled,canceled,Advanced Business Analytics with R,SCTOWERS
+2016-06-17 05:45:02,2016-06-17 05:42:40,43603,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-18 10:14:03,2016-06-17 05:27:56,43596,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-17 05:21:03,2016-06-17 05:16:50,43594,INR,9518,1332,48,10945,success,completed,Project Management ,SCG7CR
+2016-06-17 10:37:03,2016-06-17 05:01:40,43588,INR,9518,1332,48,10945,success,completed,Project Management ,SCG7CR
+2016-06-17 12:00:00,2016-06-17 04:48:23,43579,INR,6755,946,34,7768,canceled,canceled,Cloud Computing with MS Azure,
+2016-06-20 01:29:01,2016-06-17 04:38:49,43578,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-17 12:00:00,2016-06-17 04:35:01,43577,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,
+2016-06-20 01:43:04,2016-06-17 04:24:43,43568,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-17 05:41:02,2016-06-17 04:18:31,43562,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-18 12:00:00,2016-06-17 04:16:35,43560,INR,17501,2450,88,20126,success,completed,Finance for Non-finance,
+2016-06-17 04:11:02,2016-06-17 04:06:26,43552,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-17 08:48:03,2016-06-17 04:03:48,43551,INR,525,74,3,604,success,completed,Cloud Computing Applications|Importance of Project Management,
+2016-06-17 03:35:03,2016-06-17 03:33:03,43529,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-17 04:21:38,2016-06-17 03:19:00,43527,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SC0107
+2016-06-17 03:44:02,2016-06-17 02:45:40,43512,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-19 01:34:38,2016-06-17 02:21:44,43505,INR,6000,840,30,6900,failure,canceled,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-17 02:15:02,2016-06-17 02:12:57,43503,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-17 06:00:00,2016-06-17 12:29:25,43483,INR,8126,,,8126,canceled,canceled,Digital Marketing Certification,SCG7CR
+2016-06-17 12:29:03,2016-06-17 12:22:14,43478,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-17 12:30:02,2016-06-17 12:13:49,43476,INR,28463,,,28463,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-17 12:23:05,2016-06-17 12:06:27,43474,INR,28463,,,28463,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-17 01:54:02,2016-06-17 12:01:46,43471,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-17 12:00:00,2016-06-17 11:59:28,43465,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SC0105
+2016-06-17 12:08:02,2016-06-17 11:39:48,43438,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-17 11:54:16,2016-06-17 11:32:47,43432,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCTOWERS
+2016-06-17 11:22:01,2016-06-17 11:16:42,43423,INR,9000,1260,45,10350,success,completed,Project Management ,
+2016-06-17 11:14:05,2016-06-17 11:07:18,43414,INR,8545,,,8545,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-17 10:27:01,2016-06-17 10:22:21,43389,INR,6001,840,30,6901,success,completed,Business Analytics ,SCG7CR
+2016-06-18 10:00:00,2016-06-17 10:10:53,43384,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-17 11:31:02,2016-06-17 09:53:03,43378,INR,9088,1272,45,10451,success,completed,Business Analytics ,SC0106
+2016-06-17 10:12:01,2016-06-17 09:14:56,43373,INR,263,37,1,302,success,completed,Understanding Social Media Marketing,
+2016-06-17 10:05:04,2016-06-17 08:48:54,43368,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-17 07:52:00,2016-06-17 07:47:13,43367,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-18 12:08:05,2016-06-17 12:23:49,43361,INR,11911,1668,60,13698,success,completed,Big Data Analytics using Hadoop ,
+2016-06-16 08:30:00,2016-06-16 08:12:54,43349,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-16 08:17:05,2016-06-16 08:05:57,43348,INR,4500,630,23,5175,success,completed,Certificate in Advanced MS Excel 2010,
+2016-06-16 07:50:05,2016-06-16 07:17:08,43344,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCTOWERS
+2016-06-17 12:45:02,2016-06-16 06:59:38,43336,INR,12078,,,12078,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-17 05:55:05,2016-06-16 06:45:06,43335,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCTOWERS
+2016-06-16 06:37:04,2016-06-16 06:33:04,43332,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-16 08:58:02,2016-06-16 06:17:12,43328,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-16 11:17:05,2016-06-16 05:34:08,43316,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCG7CR
+2016-06-16 07:53:03,2016-06-16 05:29:21,43313,INR,4501,630,23,5176,success,completed,Business Analytics ,SCG7CR
+2016-06-16 05:30:01,2016-06-16 05:27:09,43311,INR,22607,3165,113,25998,success,completed,Certified Scrum Master Training,SCTOWERS
+2016-06-16 05:33:03,2016-06-16 05:17:03,43306,INR,22607,3165,113,25998,success,completed,Certified Scrum Master Training,SCTOWERS
+2016-06-16 07:53:05,2016-06-16 05:16:00,43305,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-16 04:56:01,2016-06-16 04:47:24,43295,INR,6423,899,32,7387,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-16 12:00:00,2016-06-16 04:40:55,43292,INR,10877,1523,54,12509,success,completed,Project Management ,SCG7CR
+2016-06-16 04:25:04,2016-06-16 04:16:33,43273,INR,9518,1332,48,10945,success,completed,Project Management ,SCG7CR
+2016-06-16 04:56:01,2016-06-16 04:08:58,43270,INR,6755,946,34,7768,success,completed,Supply Chain Management,SCG7CR
+2016-06-16 03:41:05,2016-06-16 03:39:17,43264,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-16 03:53:06,2016-06-16 03:33:28,43260,INR,9518,1332,48,10945,success,completed,Project Management ,SC0106
+2016-06-16 05:28:03,2016-06-16 02:58:36,43242,INR,6755,946,34,7768,success,completed,Supply Chain Management,SCG7CR
+2016-06-17 07:44:00,2016-06-16 02:55:22,43239,INR,9518,1332,48,10945,success,completed,Project Management ,SCG7CR
+2016-06-16 02:59:00,2016-06-16 02:35:29,43226,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-16 05:44:01,2016-06-16 02:27:35,43221,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-16 02:21:02,2016-06-16 02:14:28,43218,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCTOWERS
+2016-06-16 02:15:00,2016-06-16 02:08:27,43216,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCTOWERS
+2016-06-16 02:09:03,2016-06-16 02:05:42,43214,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-16 02:25:03,2016-06-16 02:04:55,43213,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-16 02:11:02,2016-06-16 01:36:42,43209,INR,6755,946,34,7768,failure,canceled,Cloud Computing with MS Azure,SCG7CR
+2016-06-16 08:47:00,2016-06-16 01:33:08,43207,INR,9088,1272,45,10451,success,completed,Business Analytics ,SCG7CR
+2016-06-16 02:05:02,2016-06-16 01:28:05,43206,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-16 02:03:03,2016-06-16 01:26:02,43205,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-16 01:11:00,2016-06-16 01:09:02,43197,INR,60,8,0,69,success,completed,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 01:11:03,2016-06-16 01:06:49,43195,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-16 01:05:03,2016-06-16 12:58:35,43191,INR,60,8,0,69,success,completed,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 12:50:03,2016-06-16 12:48:29,43186,INR,60,8,0,69,success,completed,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 12:53:03,2016-06-16 12:46:00,43185,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-16 12:45:01,2016-06-16 12:43:32,43181,INR,60,8,0,69,success,completed,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 12:40:01,2016-06-16 12:37:54,43176,INR,60,8,0,69,success,completed,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 12:35:04,2016-06-16 12:32:40,43170,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-16 12:33:04,2016-06-16 12:31:09,43168,INR,60,8,0,69,success,completed,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-17 12:16:03,2016-06-16 12:26:21,43165,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-16 12:24:42,2016-06-16 12:23:57,43162,INR,60,8,0,69,failure,canceled,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 12:20:01,2016-06-16 12:14:09,43154,INR,2001,280,10,2301,success,completed,Financial Accounting,SCG7CR
+2016-06-16 12:22:21,2016-06-16 12:12:37,43153,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-16 01:59:04,2016-06-16 12:08:41,43149,INR,15173,2124,76,17449,success,completed,Advanced Digital Marketing,SCG7CR
+2016-06-16 04:34:02,2016-06-16 11:50:30,43137,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-16 11:51:02,2016-06-16 11:49:02,43136,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-16 12:00:00,2016-06-16 11:46:49,43135,INR,6423,899,32,7387,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-16 11:59:04,2016-06-16 11:25:56,43131,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SC0106
+2016-06-16 12:15:00,2016-06-16 11:06:39,43130,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SC0106
+2016-06-16 01:59:56,2016-06-16 10:59:15,43129,INR,6755,946,34,7768,failure,canceled,Cloud Computing with MS Azure,SCTOWERS
+2016-06-16 11:57:03,2016-06-16 10:48:03,43125,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-16 01:43:01,2016-06-16 10:46:08,43124,INR,4000,560,20,4600,success,completed,Supply Chain Management,SCG7CR
+2016-06-16 10:31:00,2016-06-16 10:29:42,43116,INR,60,8,0,69,success,completed,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 10:26:04,2016-06-16 10:24:46,43112,INR,60,8,0,69,success,completed,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 10:22:12,2016-06-16 10:21:08,43107,INR,27000,3780,135,31050,failure,canceled,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 10:17:04,2016-06-16 10:15:02,43104,INR,60,8,0,69,success,completed,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 10:08:05,2016-06-16 10:07:07,43101,INR,60,8,0,69,success,completed,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 09:51:20,2016-06-16 09:50:39,43097,INR,60,8,0,69,failure,canceled,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 09:46:34,2016-06-16 09:43:56,43094,INR,60,8,0,69,failure,canceled,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 09:39:00,2016-06-16 09:34:51,43093,INR,60,8,0,69,success,completed,Information Mapping Fundamentals and Mastering Successful Policies and Procedures,
+2016-06-16 09:37:05,2016-06-16 09:25:32,43088,INR,7720,1081,39,8878,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-16 08:08:04,2016-06-16 12:01:37,43064,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-15 06:23:02,2016-06-15 06:00:31,43042,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-22 01:19:03,2016-06-15 04:59:38,43033,INR,10386,1454,52,11944,success,completed,Business Analytics ,SCTOWERS
+2016-06-15 06:23:00,2016-06-15 04:55:26,43032,INR,7720,1081,39,8878,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-16 12:08:01,2016-06-15 04:50:56,43031,INR,263,37,1,302,success,completed,Evolution of Business Analytics,
+2016-06-15 02:39:54,2016-06-15 02:32:13,42987,INR,3000,420,15,3450,failure,canceled,Basics of Project Management,SCG7CR
+2016-06-24 12:00:00,2016-06-15 12:47:09,42962,INR,45000,6300,225,51750,success,completed,CIMA - Advanced Diploma in Management Accounting ,SCNORTH
+2016-06-17 03:34:01,2016-06-15 12:38:04,42959,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-15 12:36:04,2016-06-15 12:25:17,42953,INR,10912,1528,55,12549,canceled,canceled,Digital Marketing Certification,SCG7CR
+2016-06-15 11:27:05,2016-06-15 10:49:24,42914,INR,13760,,,13760,success,completed,Project Management ,SCTOWERS
+2016-06-15 10:21:01,2016-06-15 10:14:24,42903,INR,4500,630,23,5175,success,completed,Supply Chain Management,SCG7CR
+2016-06-15 12:12:01,2016-06-15 12:09:40,42869,INR,2250,315,11,2588,success,completed,Financial Accounting,
+2016-06-14 11:10:00,2016-06-14 10:50:43,42862,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-14 10:53:04,2016-06-14 10:43:29,42859,INR,11250,1575,56,12938,canceled,canceled,Financial Modelling Using Excel,
+2016-06-14 08:54:03,2016-06-14 08:17:45,42858,INR,21000,2940,105,24150,success,checkout_payment,Digital Marketing Professional Program in association with Google,SCWEST
+2016-06-14 07:45:05,2016-06-14 07:24:38,42849,INR,17341,2428,87,19942,success,completed,Advanced Digital Marketing,SCG7CR
+2016-06-14 07:03:02,2016-06-14 06:55:49,42846,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-14 06:29:04,2016-06-14 06:27:48,42844,INR,11684,1636,58,13437,success,completed,Business Analytics ,
+2016-06-14 04:47:57,2016-06-14 04:37:11,42826,INR,12276,1719,61,14117,failure,canceled,Digital Marketing Certification,SCG7CR
+2016-06-14 03:52:03,2016-06-14 03:46:42,42808,INR,7341,1028,37,8442,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-14 10:25:04,2016-06-14 03:11:42,41849,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-14 01:44:02,2016-06-14 01:03:28,41764,INR,2250,315,11,2588,success,completed,Java Programming,SCG7CR
+2016-06-14 01:33:04,2016-06-14 12:12:12,41746,INR,6755,946,34,7768,success,completed,Supply Chain Management,SCG7CR
+2016-06-14 12:40:42,2016-06-14 11:56:33,41736,INR,24000,3360,120,27600,failure,canceled,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-14 11:06:03,2016-06-14 11:00:55,41703,INR,10912,1528,55,12549,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-14 11:02:01,2016-06-14 10:54:31,41652,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-13 10:23:02,2016-06-13 10:18:13,41602,INR,7341,1028,37,8442,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-13 10:09:02,2016-06-13 10:06:29,41598,INR,8539,,,8539,success,completed,Business Analytics ,SCG7CR
+2016-06-13 12:00:00,2016-06-13 04:43:33,41554,INR,9518,1332,48,10945,success,completed,Project Management ,SCTOWERS
+2016-06-13 12:00:00,2016-06-13 04:26:27,41533,,0,0,0,0,,canceled,,SCG7CR
+2016-06-14 01:08:04,2016-06-13 04:25:34,41531,INR,10386,1454,52,11944,success,completed,Business Analytics ,SCTOWERS
+2016-06-13 03:47:01,2016-06-13 03:23:28,41417,INR,5060,,,5060,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-13 09:50:03,2016-06-13 02:48:43,41412,INR,10386,1454,52,11944,success,completed,Business Analytics ,SCG7CR
+2016-06-13 09:29:05,2016-06-13 02:47:30,41411,INR,10386,1454,52,11944,success,completed,Business Analytics ,SCG7CR
+2016-06-13 02:09:05,2016-06-13 02:06:43,41408,INR,10500,1470,53,12075,success,completed,Advanced Business Analytics with R,SCG7CR
+2016-06-13 03:45:01,2016-06-13 02:05:24,41407,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-13 02:28:01,2016-06-13 01:35:27,41404,INR,263,37,1,302,success,completed,Basics of Management Accounting,
+2016-06-13 01:31:09,2016-06-13 01:11:56,41398,INR,9287,,,9287,failure,canceled,Digital Marketing Certification,SCG7CR
+2016-06-13 01:09:00,2016-06-13 01:05:44,41396,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-13 04:09:00,2016-06-13 12:46:22,41380,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-14 04:57:36,2016-06-13 11:53:51,41361,USD,1,,,1,success,completed,Business Analytics ,
+2016-06-13 11:48:04,2016-06-13 11:46:05,41360,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-13 12:00:00,2016-06-13 10:28:56,41315,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-12 11:08:02,2016-06-12 11:02:50,41266,INR,17341,2428,87,19942,success,completed,Advanced Digital Marketing,SCG7CR
+2016-06-14 01:50:03,2016-06-12 02:20:18,41226,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-12 10:50:04,2016-06-12 10:47:58,41205,INR,6001,840,30,6901,success,completed,Business Analytics ,SCG7CR
+2016-06-13 09:35:02,2016-06-11 10:41:42,41180,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-11 10:39:04,2016-06-11 10:34:57,41178,INR,2502,350,13,2877,success,completed,Microsoft PowerPoint 2013,SCG7CR
+2016-06-11 10:20:01,2016-06-11 10:11:17,41176,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-11 10:36:54,2016-06-11 09:54:43,41173,INR,10386,1454,52,11944,failure,canceled,Business Analytics ,SCG7CR
+2016-06-11 07:44:02,2016-06-11 07:37:06,41170,INR,8539,,,8539,success,completed,Business Analytics ,SCG7CR
+2016-06-11 05:42:05,2016-06-11 05:31:38,41152,INR,3000,420,15,3450,success,completed,Business Strategy ,SC0140
+2016-06-11 04:09:01,2016-06-11 04:01:31,41147,INR,7720,1081,39,8878,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-11 03:28:03,2016-06-11 03:26:01,41139,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-11 02:24:03,2016-06-11 02:18:44,41086,INR,4000,560,20,4600,success,completed,Supply Chain Management,SCG7CR
+2016-06-11 02:15:02,2016-06-11 02:09:18,41084,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-11 02:42:00,2016-06-11 02:07:14,41083,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-11 12:27:02,2016-06-11 12:24:42,41064,INR,263,37,1,302,success,completed,Introduction to Microprocessors,SCG7CR
+2016-06-11 05:52:00,2016-06-11 11:53:40,41058,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCTOWERS
+2016-06-11 06:00:00,2016-06-11 11:51:29,41057,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-11 12:16:04,2016-06-10 11:54:46,40988,INR,4985,698,25,5733,success,completed,Online Android App Development,SCG7CR
+2016-06-10 09:09:02,2016-06-10 09:05:07,40972,INR,4500,630,23,5175,success,completed,Certificate in Advanced MS Excel 2010,
+2016-06-11 12:18:05,2016-06-10 08:56:54,40969,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-13 08:14:01,2016-06-10 06:45:00,40950,INR,10877,1523,54,12509,success,completed,Project Management ,SCG7CR
+2016-06-10 05:48:37,2016-06-10 05:38:12,40943,INR,5608,785,28,6449,failure,canceled,Online Android App Development,
+2016-06-10 04:22:02,2016-06-10 03:35:21,40923,INR,263,37,1,302,success,completed,Introduction to Microprocessors,SCG7CR
+2016-06-10 04:42:13,2016-06-10 03:15:24,40918,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0183
+2016-06-10 07:50:03,2016-06-10 03:09:18,40916,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-10 02:59:02,2016-06-10 02:56:33,40911,INR,10582,1481,53,12169,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-10 02:46:03,2016-06-10 02:33:52,40883,INR,9765,,,9765,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-10 02:33:05,2016-06-10 02:31:51,40882,INR,4500,630,23,5175,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-10 02:36:04,2016-06-10 02:22:22,40878,INR,6000,840,30,6900,success,completed,Cloud Computing with AWS,SC0177
+2016-06-10 07:08:05,2016-06-10 01:52:51,40873,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-10 01:49:04,2016-06-10 01:44:21,40870,INR,10001,1400,50,11501,success,completed,Financial Modelling Using Excel,SCG7CR
+2016-06-10 02:33:04,2016-06-10 12:59:49,40860,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-10 12:52:03,2016-06-10 12:45:09,40857,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-10 02:56:00,2016-06-10 12:25:32,40847,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-10 01:49:05,2016-06-10 12:24:42,40845,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-10 12:50:01,2016-06-10 12:23:53,40844,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-10 01:42:00,2016-06-10 12:23:02,40843,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-10 12:04:00,2016-06-10 11:59:18,40833,INR,6755,946,34,7768,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-10 06:31:05,2016-06-10 11:06:21,40820,INR,7720,1081,39,8878,success,completed,Supply Chain Management,SCG7CR
+2016-06-10 10:53:16,2016-06-10 10:50:21,40803,USD,110,,,110,canceled,canceled,Business Analytics ,
+2016-06-10 10:20:02,2016-06-10 10:16:04,40638,INR,4000,560,20,4600,success,completed,Supply Chain Management,SCG7CR
+2016-06-10 04:39:03,2016-06-10 04:35:13,40613,INR,4500,630,23,5175,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-10 12:53:01,2016-06-10 12:40:32,40609,INR,5000,700,25,5750,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-09 09:10:04,2016-06-09 09:06:03,40597,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-09 07:41:03,2016-06-09 07:34:04,40592,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-11 05:08:02,2016-06-09 06:23:52,40588,INR,10912,1528,55,12549,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-10 02:49:01,2016-06-09 04:15:50,40447,INR,10386,1454,52,11944,success,completed,Business Analytics ,SCTOWERS
+2016-06-10 12:00:00,2016-06-09 03:37:46,40436,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-10 12:25:05,2016-06-09 02:45:28,40379,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SC0112
+2016-06-09 02:42:02,2016-06-09 02:33:49,40374,INR,8684,1216,43,9987,success,completed,Supply Chain Management,SCG7CR
+2016-06-09 04:42:02,2016-06-09 02:25:49,40362,INR,10582,1481,53,12169,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-09 01:22:02,2016-06-09 01:14:58,40344,INR,10386,1454,52,11944,success,completed,Business Analytics ,SC0102
+2016-06-09 01:15:01,2016-06-09 01:10:03,40343,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-09 01:00:00,2016-06-09 12:40:00,40339,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SC0177
+2016-06-10 12:00:00,2016-06-09 11:09:15,40326,INR,20000,2800,100,23000,canceled,canceled,CIMA Gateway Prep Program,
+2016-06-09 02:40:49,2016-06-09 02:39:38,40312,USD,110,,,110,canceled,canceled,Business Analytics ,
+2016-06-09 01:15:13,2016-06-09 01:11:48,40308,USD,74,,,74,canceled,canceled,Advanced MS Excel,
+2016-06-09 01:33:53,2016-06-09 12:49:47,40306,USD,110,,,110,canceled,canceled,Business Analytics ,
+2016-06-09 08:03:00,2016-06-08 08:38:10,40282,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-08 07:24:00,2016-06-08 07:07:33,40260,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-08 07:07:01,2016-06-08 06:48:28,40254,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-08 07:12:03,2016-06-08 06:13:36,40245,INR,2531,,,2531,success,completed,Financial Accounting,SCTOWERS
+2016-06-09 10:25:01,2016-06-08 05:29:10,40237,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-09 11:48:10,2016-06-08 05:15:04,40234,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-08 04:25:05,2016-06-08 04:03:24,40209,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-08 03:57:00,2016-06-08 03:45:32,40192,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-08 03:40:31,2016-06-08 03:36:25,40190,INR,4000,560,20,4600,failure,canceled,Certificate in Advanced MS Excel 2010,
+2016-06-09 11:48:02,2016-06-08 03:22:11,40184,INR,7341,1028,37,8442,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-08 03:06:01,2016-06-08 03:01:10,40136,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-09 07:59:04,2016-06-08 02:44:41,40125,INR,3000,420,15,3450,success,completed,Business Strategy ,SCG7CR
+2016-06-08 02:25:00,2016-06-08 02:15:17,40120,INR,2001,280,10,2301,success,completed,HTML5 / Internet Web Technologies,SCG7CR
+2016-06-09 03:15:01,2016-06-08 12:28:06,40099,INR,21013,2942,105,24165,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-08 10:11:02,2016-06-08 12:18:36,40095,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-08 10:19:03,2016-06-08 10:12:42,40067,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-08 03:24:03,2016-06-08 12:00:54,40047,INR,5060,,,5060,success,completed,Supply Chain Management,SCG7CR
+2016-06-07 10:25:05,2016-06-07 10:18:42,40042,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-07 07:33:04,2016-06-07 07:28:07,40030,INR,4500,630,23,5175,success,completed,Supply Chain Management,SCG7CR
+2016-06-07 07:04:03,2016-06-07 07:01:39,40026,INR,263,37,1,302,success,completed,Understanding Social Media Marketing,
+2016-06-07 06:52:01,2016-06-07 06:48:37,40023,INR,4000,560,20,4600,success,completed,Supply Chain Management,SCG7CR
+2016-06-07 06:32:04,2016-06-07 06:05:03,40016,INR,2369,332,12,2724,success,completed,Basics of Cloud Computing,
+2016-06-07 09:43:02,2016-06-07 05:48:44,40014,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-07 02:55:02,2016-06-07 02:48:58,39981,INR,12000,1680,60,13800,success,completed,Advanced Business Analytics with R,SCG7CR
+2016-06-07 06:46:01,2016-06-07 12:50:16,39963,INR,10582,1481,53,12169,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-07 01:06:00,2016-06-07 12:49:25,39962,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-07 03:04:03,2016-06-07 12:46:11,39961,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-07 12:27:05,2016-06-07 12:17:35,39955,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-07 10:45:00,2016-06-07 10:30:45,39943,INR,10912,1528,55,12549,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-07 01:30:00,2016-06-07 01:17:15,39917,INR,263,37,1,302,success,completed,Basics of Financial Accounting,
+2016-06-06 09:43:05,2016-06-06 09:39:25,39906,INR,263,37,1,302,success,completed,UNIX Shell Programming,
+2016-06-06 09:19:05,2016-06-06 09:16:17,39902,INR,263,37,1,302,success,completed,Basics of Management Accounting,SCG7CR
+2016-06-06 11:21:01,2016-06-06 08:51:25,39899,INR,13386,,,13386,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-07 11:15:00,2016-06-06 08:09:15,39893,INR,15173,2124,76,17449,success,completed,Advanced Digital Marketing,SCTOWERS
+2016-06-08 12:43:03,2016-06-06 08:03:11,39891,INR,9548,1337,48,10980,success,completed,Digital Marketing Certification,SCTOWERS
+2016-06-08 08:51:05,2016-06-06 07:52:08,39889,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-06 07:02:05,2016-06-06 06:58:35,39885,INR,5000,700,25,5750,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-06 06:49:05,2016-06-06 06:47:35,39881,INR,10582,1481,53,12169,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-06 06:26:01,2016-06-06 06:13:30,39878,INR,22500,3150,113,25875,success,completed,Digital Marketing Professional Program in association with Google,SC0107
+2016-06-08 06:33:02,2016-06-06 05:30:49,39864,INR,10912,1528,55,12549,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-06 05:12:01,2016-06-06 05:08:48,39858,INR,6001,840,30,6901,success,completed,Business Analytics ,SCG7CR
+2016-06-06 05:07:05,2016-06-06 04:59:15,39855,INR,6755,946,34,7768,success,checkout_payment,Cloud Computing with MS Azure,SCG7CR
+2016-06-06 04:56:00,2016-06-06 04:52:57,39852,INR,10877,1523,54,12509,success,completed,Project Management ,SCG7CR
+2016-06-06 05:33:03,2016-06-06 04:39:08,39845,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-10 12:26:00,2016-06-06 04:05:02,39838,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0180
+2016-06-06 12:30:00,2016-06-06 12:25:49,39794,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SC0177
+2016-06-06 12:15:04,2016-06-06 12:11:07,39790,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SC0177
+2016-06-07 04:30:01,2016-06-06 11:59:38,39788,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-06 12:01:05,2016-06-06 11:55:35,39787,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SC0177
+2016-06-06 11:59:02,2016-06-06 11:55:02,39786,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-06 11:45:00,2016-06-06 11:28:56,39771,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SC0177
+2016-06-06 12:13:05,2016-06-06 10:42:55,39751,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-06 07:07:00,2016-06-06 10:16:40,39740,INR,12000,1680,60,13800,success,completed,Advanced Business Analytics with R,SCG7CR
+2016-06-05 08:52:05,2016-06-05 08:49:43,39702,INR,2106,295,11,2422,success,completed,Basics of Cloud Computing,
+2016-06-05 08:48:03,2016-06-05 08:40:00,39700,INR,6001,840,30,6901,success,completed,Business Analytics ,SCG7CR
+2016-06-05 08:43:02,2016-06-05 08:34:11,39699,INR,5000,700,25,5750,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-05 07:09:00,2016-06-05 07:02:10,39692,INR,5000,700,25,5750,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-05 06:53:05,2016-06-05 06:48:17,39691,INR,5000,700,25,5750,failure,canceled,Cloud Computing with MS Azure,
+2016-06-05 06:43:55,2016-06-05 06:41:10,39689,INR,5000,700,25,5750,failure,canceled,Cloud Computing with MS Azure,
+2016-06-05 06:29:05,2016-06-05 06:24:33,39688,INR,4000,560,20,4600,success,completed,Supply Chain Management,
+2016-06-05 02:12:29,2016-06-05 01:59:22,39672,INR,4985,698,25,5733,success,completed,Online Android App Development,SCG7CR
+2016-06-08 06:45:00,2016-06-05 01:53:29,39671,INR,10001,1400,50,11501,success,completed,Financial Modelling Using Excel,SC0153
+2016-06-05 12:53:03,2016-06-05 12:46:57,39668,INR,6001,840,30,6901,success,completed,Business Analytics ,SCG7CR
+2016-06-05 12:31:05,2016-06-05 12:29:22,39664,INR,4000,560,20,4600,success,completed,Supply Chain Management,SCG7CR
+2016-06-05 12:07:01,2016-06-05 11:55:19,39660,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-05 08:41:27,2016-06-05 11:19:08,39654,INR,2106,295,11,2422,failure,canceled,Basics of Cloud Computing,
+2016-06-05 11:09:04,2016-06-05 11:00:10,39651,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-05 10:43:01,2016-06-05 10:24:11,39646,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-09 05:34:03,2016-06-04 06:41:33,39590,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-04 05:32:00,2016-06-04 05:22:41,39572,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-04 04:56:00,2016-06-04 04:46:13,39570,INR,4000,560,20,4600,success,completed,Supply Chain Management,SCG7CR
+2016-06-04 04:43:17,2016-06-04 04:41:23,39568,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-04 04:38:00,2016-06-04 04:32:22,39562,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-04 04:05:05,2016-06-04 03:59:33,39542,INR,21013,2942,105,24165,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-04 04:40:01,2016-06-04 03:35:52,39528,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SC0106
+2016-06-04 04:16:04,2016-06-04 01:50:41,39482,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-04 01:07:00,2016-06-04 12:51:24,39470,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-04 01:54:04,2016-06-04 12:37:37,39467,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-04 12:37:17,2016-06-04 12:28:51,39465,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-04 01:22:05,2016-06-04 11:57:09,39461,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-04 11:53:00,2016-06-04 11:47:38,39457,INR,5060,,,5060,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-04 03:39:03,2016-06-04 10:50:30,39446,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-04 10:45:00,2016-06-04 10:47:52,39445,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SC0177
+2016-06-04 10:50:02,2016-06-04 10:44:59,39443,INR,2001,280,10,2301,success,completed,Unix Operating System,SC0107
+2016-06-04 10:45:00,2016-06-04 10:41:28,39442,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SC0177
+2016-06-06 09:45:02,2016-06-04 10:29:37,39440,INR,12000,1680,60,13800,success,completed,Advanced Business Analytics with R,SCG7CR
+2016-06-03 09:54:03,2016-06-03 09:47:42,39420,INR,6325,,,6325,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-03 06:30:00,2016-06-03 06:28:13,39394,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-03 06:30:00,2016-06-03 06:24:40,39392,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-03 06:15:00,2016-06-03 06:18:01,39391,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-03 06:00:00,2016-06-03 05:52:18,39387,INR,6000,840,30,6900,success,completed,Bank Probationary Officer (PO) Exam Coaching,SC0176
+2016-06-05 11:24:03,2016-06-03 05:28:51,39382,INR,4744,,,4744,success,completed,Certificate in Advanced MS Excel 2010,SC0107
+2016-06-03 06:09:05,2016-06-03 04:18:45,39369,INR,10582,1481,53,12169,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-04 10:28:02,2016-06-03 04:12:54,39366,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SC0177
+2016-06-03 04:18:02,2016-06-03 04:12:17,39365,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-03 04:03:00,2016-06-03 03:59:33,39362,INR,263,37,1,302,success,completed,Introduction to Microprocessors,
+2016-06-04 09:22:01,2016-06-03 03:54:42,39360,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-03 03:54:05,2016-06-03 03:50:59,39357,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-03 03:50:37,2016-06-03 03:46:06,39354,INR,15313,2144,77,17610,success,completed,Finance for Non-finance,SCG7CR
+2016-06-04 01:27:00,2016-06-03 01:30:38,39323,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-03 02:37:01,2016-06-03 01:27:58,39322,INR,7720,1081,39,8878,success,completed,Supply Chain Management,SCG7CR
+2016-06-03 02:24:00,2016-06-03 01:24:23,39320,INR,24000,3360,120,27600,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-03 12:22:05,2016-06-03 12:10:49,39291,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-04 11:33:00,2016-06-03 11:06:27,39266,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-02 08:44:24,2016-06-02 08:33:24,39160,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-02 07:26:01,2016-06-02 07:15:59,39157,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-02 07:05:03,2016-06-02 06:56:29,39155,INR,8000,1120,40,9200,success,completed,Project Management ,
+2016-06-02 06:14:01,2016-06-02 05:13:23,39148,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-02 05:15:02,2016-06-02 05:04:08,39147,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-03 12:44:02,2016-06-02 04:31:25,39138,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-02 04:59:03,2016-06-02 03:07:25,39107,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-02 02:22:04,2016-06-02 02:07:17,39092,INR,10877,1523,54,12509,success,completed,Project Management ,SCG7CR
+2016-06-02 12:00:00,2016-06-02 01:48:55,39090,INR,7341,1028,37,8442,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-02 04:46:00,2016-06-02 01:06:24,39081,INR,11201,1568,56,12881,success,completed,Advanced Business Analytics with R,SC0102
+2016-06-02 12:05:05,2016-06-02 12:01:20,39074,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-02 11:03:03,2016-06-02 10:49:48,39060,INR,10877,1523,54,12509,success,completed,Project Management ,SC0132
+2016-06-20 09:31:00,2016-06-01 11:07:47,39034,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-01 10:43:01,2016-06-01 10:39:05,39030,INR,10001,1400,50,11501,success,completed,Financial Modelling Using Excel,SCG7CR
+2016-06-01 10:27:00,2016-06-01 10:04:38,39025,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-01 09:52:03,2016-06-01 09:39:41,39022,INR,9177,1285,46,10553,success,completed,Digital Marketing Certification,
+2016-06-02 01:26:03,2016-06-01 06:44:50,39001,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-01 09:30:00,2016-06-01 06:43:16,39000,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SC0112
+2016-06-01 08:43:00,2016-06-01 06:43:07,38999,INR,14000,1960,70,16100,success,completed,Advanced Digital Marketing,SCG7CR
+2016-06-01 06:37:01,2016-06-01 06:32:08,38995,INR,8549,,,8549,success,completed,Cloud Computing with MS Azure,SCG7CR
+2016-06-01 06:43:51,2016-06-01 05:42:57,38991,INR,9518,1332,48,10945,success,completed,Project Management ,SCG7CR
+2016-06-01 05:10:01,2016-06-01 05:06:40,38986,INR,261,37,1,300,success,completed,Introduction to Microprocessors,
+2016-06-01 04:39:00,2016-06-01 04:33:20,38973,INR,11719,,,11719,success,completed,Big Data Analytics using Hadoop ,SCTOWERS
+2016-06-01 04:07:03,2016-06-01 03:29:26,38963,INR,3750,525,19,4313,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-01 02:29:01,2016-06-01 01:10:48,38936,INR,6970,976,35,8015,success,completed,Project Management ,SCG7CR
+2016-06-01 01:01:03,2016-06-01 12:57:06,38931,INR,22514,3152,113,25892,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-01 03:07:02,2016-06-01 12:52:02,38929,INR,22514,3152,113,25892,success,completed,Digital Marketing Professional Program in association with Google,SCTOWERS
+2016-06-01 06:52:02,2016-06-01 12:29:15,38917,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-01 12:32:05,2016-06-01 12:15:41,38904,INR,8376,1173,42,9632,success,completed,Digital Marketing Certification,SCG7CR
+2016-06-01 12:04:00,2016-06-01 11:58:57,38896,INR,9264,1297,46,10654,success,completed,Big Data Analytics using Hadoop ,SCG7CR
+2016-06-01 03:18:03,2016-06-01 11:55:16,38895,INR,9476,1327,47,10898,success,completed,Project Management ,SCG7CR
+2016-06-01 11:05:03,2016-06-01 10:31:15,38864,INR,3734,523,19,4294,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-01 11:00:00,2016-06-01 10:07:17,38850,INR,9049,1267,45,10406,success,completed,Business Analytics ,SCTOWERS
+2016-06-01 08:45:00,2016-06-01 08:44:06,38841,INR,8712,1220,44,10019,success,completed,Financial Modelling Using Excel,SCG7CR
+2016-06-01 04:47:03,2016-05-31 07:27:26,38782,INR,21000,2940,105,24150,success,completed,Digital Marketing Professional Program in association with Google,SCG7CR
+2016-06-01 02:03:05,2016-05-31 05:23:43,38741,INR,3753,525,19,4316,success,completed,Certificate in Advanced MS Excel 2010,SCG7CR
+2016-06-01 12:00:00,2016-05-31 04:12:22,38714,INR,18000,2520,90,20610,success,completed,Digital Marketing Professional Program in association with Google,SC0171
+2016-06-01 02:09:01,2016-05-31 02:49:42,38650,INR,4003,560,20,4603,success,completed,Certificate in Advanced MS Excel 2010,SCTOWERS
+2016-06-01 06:35:00,2016-05-31 02:47:21,38646,INR,8751,1225,44,10063,success,completed,Financial Modelling Using Excel,SCG7CR
+2016-06-01 01:26:00,2016-05-30 05:40:10,38437,INR,17633,,,17633,success,completed,Advanced Digital Marketing,SCTOWERS
+2016-06-01 11:55:05,2016-05-27 12:10:40,37651,INR,7724,1081,39,8882,success,completed,Cloud Computing with MS Azure,SC0106
+2016-06-01 08:12:05,2016-05-26 11:38:03,37482,INR,10386,1454,52,11944,success,completed,Business Analytics ,SC0101
+2016-06-30 05:27:18,2016-04-04 10:14:41,27622,INR,6000,840,30,6900,failure,canceled,Bank Probationary Officer (PO) Exam Coaching,SC0158
+2016-06-02 03:21:04,2016-02-28 05:22:50,22398,INR,4000,560,20,4600,success,completed,Certificate in Advanced MS Excel 2010,SC0101
+2016-06-20 04:48:04,2016-02-28 05:19:49,22397,INR,13406,1877,67,15417,success,completed,ITIL® Foundation,SC0101
+2016-06-06 05:30:18,2016-02-18 04:41:15,20571,INR,10582,1481,53,12169,failure,canceled,Big Data Analytics using Hadoop ,
